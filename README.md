@@ -5,6 +5,7 @@
 
 Controlling an LED with a button is a fundamental project in the world of Arduino, offering a hands-on experience for beginners in electronics and programming. This project involves interfacing a physical button with an Arduino microcontroller to control the state of an LED. The button serves as an input device, and the LED as an output device, creating a simple but effective interaction.
 
+![t725](https://github.com/abhiramiselvan/led-with-button/assets/144225835/748228ce-a536-4408-95c8-d45bee9ae4c3)
 
 #### Step: 1 - Components
 - LED - 1
@@ -14,7 +15,7 @@ Controlling an LED with a button is a fundamental project in the world of Arduin
 - Arduino uno + connecting cable - 1 and Ardunio software
 - Jumper wires - As we require
 
-
+![IMG_20231116_103348](https://github.com/abhiramiselvan/led-with-button/assets/144225835/8326dd38-4dda-4e90-a501-f1456ea5a073)
 
 
 #### Step: 2 - Interfacing the LED with Arduino
